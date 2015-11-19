@@ -1,4 +1,4 @@
-# 1212300204_p4 焦雁飞 计科1201
+# 1212300204_p4 焦雁飞 计科1201 
 http://lxr.oss.org.cn/source/Documentation/driver-model/design-patterns.txt
 
   2 Device Driver Design Patterns
